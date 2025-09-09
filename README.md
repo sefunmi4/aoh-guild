@@ -8,21 +8,25 @@ building together through open-source quests.
 ## Quest Overview
 
 ### Tech
+
 Open-source tooling and infrastructure that powers the guild.
 Code lives in [`projects/`](projects/) and issues track planned features.
 _Status:_ laying foundations for the core framework.
 
 ### Research
+
 Studies and experiments that expand collective knowledge.
 Manuscripts and notes reside in [`research/`](research/).
 _Status:_ compiling initial research roadmap.
 
 ### Art & Media
+
 Visual and narrative assets that share the guild's story.
 Drafts and media files are stored in [`media/`](media/).
 _Status:_ concept art and storytelling in progress.
 
 ### Guild Community & Networking
+
 Efforts that grow and connect guild members.
 Community guidelines and events live in [`support/`](support/).
 _Status:_ onboarding early adventurers.
