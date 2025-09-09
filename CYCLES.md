@@ -1,6 +1,7 @@
 # Cycles: Weekly / Monthly / Seasonal
 
 ## Weekly
+
 - [ ] 3 social posts (Shef.Ash / PMR / AoH Blog)
 - [ ] 1 short video (TikTok/Shorts/Reels)
 - [ ] 1 GitHub update (issue/PR/readme)
@@ -8,6 +9,7 @@
 - [ ] Admin: Update Quest Board; check store/Patreon
 
 ## Monthly
+
 - [ ] Major video drop (talk/spotlight/release)
 - [ ] Newsletter/blog “Guild Report”
 - [ ] 1 public guild event (stream/panel/collab)
@@ -16,6 +18,7 @@
 - [ ] Drop 1 merch/comic/zine; run a marketing campaign
 
 ## Seasonal (Quarterly)
+
 - Winter: Research & MVP stabilization
 - Spring: Growth campaigns & collabs
 - Summer: Events & investor campaigns
