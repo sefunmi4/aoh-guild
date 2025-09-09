@@ -1,0 +1,16 @@
+name: "Research Review"
+description: Request peer feedback for a draft/paper/figure.
+labels: ["research", "review"]
+body:
+  - type: input
+    id: paper
+    attributes:
+      label: Paper / Repo Link
+  - type: textarea
+    id: abstract
+    attributes:
+      label: Abstract / Summary
+  - type: textarea
+    id: questions
+    attributes:
+      label: Specific Questions

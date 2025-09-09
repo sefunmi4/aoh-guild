@@ -1,0 +1,19 @@
+name: "Side Quest / Task"
+description: A smaller task supporting a Main Quest or Guild House.
+labels: ["task"]
+body:
+  - type: input
+    id: parent
+    attributes:
+      label: Parent Quest (issue #)
+      placeholder: "#123"
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      placeholder: "What, why, acceptance criteria"
+  - type: textarea
+    id: checklist
+    attributes:
+      label: Checklist
+      value: "- [ ]"

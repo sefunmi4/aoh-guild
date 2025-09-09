@@ -1,0 +1,27 @@
+site_name: AoH Guild House
+repo_url: https://github.com/<your-username>/aoh-guild-house
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.instant
+    - content.code.copy
+nav:
+  - Home: index.md
+  - Quest Board: QUEST_BOARD.md
+  - Cycles: CYCLES.md
+  - Main Quests:
+      - Tech: projects/README.md
+      - Research: research/README.md
+      - Art & Media: media/README.md
+  - Support Quests:
+      - Guild House: support/guild-house/README.md
+      - Networking: support/networking/README.md
+      - Funding: support/funding/README.md
+      - Onboarding: support/onboarding/README.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
