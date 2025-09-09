@@ -8,4 +8,3 @@ Welcome to the Architecture of Homosapiens guild docs. Choose your quest:
 - [Research](research/README.md)
 - [Art & Media](media/README.md)
 - [Support Quests](support/README.md)
-

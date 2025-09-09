@@ -19,4 +19,3 @@
 ## Code of Conduct
 
 By contributing you agree to follow our [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
-

@@ -43,4 +43,3 @@ We work in 2–3 week sprints. Each sprint features:
 - Research: Book + educational videos
 - Art: Movie pitch deck & animation series
 - Support: Systems for world-impact quests
-

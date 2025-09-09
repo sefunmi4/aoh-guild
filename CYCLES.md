@@ -23,4 +23,3 @@
 - Spring: Growth campaigns & collabs
 - Summer: Events & investor campaigns
 - Fall: Productization & partnerships
-
