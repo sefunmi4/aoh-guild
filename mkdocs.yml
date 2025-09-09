@@ -1,5 +1,6 @@
 site_name: AoH Guild House
 repo_url: https://github.com/<your-username>/aoh-guild-house
+docs_dir: .
 theme:
   name: material
   features:
