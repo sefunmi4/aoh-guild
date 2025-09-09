@@ -5,16 +5,39 @@ building together through open-source quests.
 
 [![Docs][docs-badge]][docs-url]
 
-## Map
+## Quest Overview
 
-- **Main Quests**
-  - Tech: [`projects/`](projects/)
-  - Research: [`research/`](research/)
-  - Art & Media: [`media/`](media/)
-- **Support Quests**
-  - Guild Community & Networking: [`support/`](support/)
-- Public roadmap: [`QUEST_BOARD.md`](QUEST_BOARD.md)
-- Cycles (weekly/monthly/seasonal): [`CYCLES.md`](CYCLES.md)
+### Tech
+Open-source tooling and infrastructure that powers the guild.
+Code lives in [`projects/`](projects/) and issues track planned features.
+_Status:_ laying foundations for the core framework.
+
+### Research
+Studies and experiments that expand collective knowledge.
+Manuscripts and notes reside in [`research/`](research/).
+_Status:_ compiling initial research roadmap.
+
+### Art & Media
+Visual and narrative assets that share the guild's story.
+Drafts and media files are stored in [`media/`](media/).
+_Status:_ concept art and storytelling in progress.
+
+### Guild Community & Networking
+Efforts that grow and connect guild members.
+Community guidelines and events live in [`support/`](support/).
+_Status:_ onboarding early adventurers.
+
+## Sprint Status
+
+Sprints communicate broad progress rather than task lists.
+See [`CYCLES.md`](CYCLES.md) for the latest cycle notes.
+
+| Quest | Current Stage |
+|-------|---------------|
+| Tech | 🚧 early build |
+| Research | 🧭 planning |
+| Art & Media | ✨ concepting |
+| Community | 🌱 forming |
 
 ## Join a Quest
 
@@ -31,3 +54,4 @@ building together through open-source quests.
 
 [docs-badge]: https://img.shields.io/badge/docs-site-blue
 [docs-url]: https://<your-username>.github.io/aoh-guild-house/
+
