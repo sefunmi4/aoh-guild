@@ -58,4 +58,3 @@ See [`CYCLES.md`](CYCLES.md) for the latest cycle notes.
 
 [docs-badge]: https://img.shields.io/badge/docs-site-blue
 [docs-url]: https://<your-username>.github.io/aoh-guild-house/
-
