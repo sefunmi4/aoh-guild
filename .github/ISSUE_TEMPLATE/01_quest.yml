@@ -1,0 +1,31 @@
+name: "Main Quest"
+description: Propose or track an epic quest (Tech / Research / Art).
+labels: ["quest", "epic"]
+body:
+  - type: input
+    id: area
+    attributes:
+      label: Area
+      description: Tech / Research / Art
+      placeholder: "Tech"
+  - type: textarea
+    id: goal
+    attributes:
+      label: "🎯 Goal"
+      placeholder: "What is the win condition?"
+  - type: textarea
+    id: tasks
+    attributes:
+      label: "🔨 Tasks"
+      description: Checklist of sub-quests / milestones
+      value: "- [ ] Task 1\n- [ ] Task 2"
+  - type: input
+    id: sprint
+    attributes:
+      label: Sprint
+      placeholder: "Sprint 1"
+  - type: textarea
+    id: launch
+    attributes:
+      label: "🚀 Launch Plan"
+      placeholder: "Video demo, blog, docs, Discord AMA, email capture"
