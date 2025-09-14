@@ -12,7 +12,12 @@ nav:
   - Quest Board: QUEST_BOARD.md
   - Cycles: CYCLES.md
   - Main Quests:
-      - Tech: projects/README.md
+      - Tech:
+          - Overview: projects/README.md
+          - Q++ GCC: projects/qpp/README.md
+          - Ethos: projects/ethos/README.md
+          - EtherOS: projects/etheros/README.md
+          - SymbolCast: projects/symbolcast/README.md
       - Research: research/README.md
       - Art & Media: media/README.md
   - Support Quests:
