@@ -57,4 +57,3 @@ See [`CYCLES.md`](CYCLES.md) for the latest cycle notes.
 - Art/Media: **CC BY-NC 4.0** (see [`media/LICENSE`](media/LICENSE))
 
 [docs-badge]: https://img.shields.io/badge/docs-site-blue
-[docs-url]: https://<your-username>.github.io/aoh-guild-house/
