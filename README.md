@@ -3,7 +3,7 @@
 **AoH** is an adventures guild for creators, researchers, and innovators —
 building together through open-source quests.
 
-[![Docs][docs-badge]](https://sefunmi4.github.io/aoh-guild/)
+[![Docs][docs-badge]](https://sefunmi4.github.io/aoh-guild-house/)
 
 ## Quest Overview
 
