@@ -1,14 +1,14 @@
 # Q++ GCC
 
 This repository is a fork of GCC with experimental extensions for quantum programming.
-For background information on GCC itself see [README](README). The additions here focus on
+For background information on GCC itself see [README](README.md). The additions here focus on
 new language constructs and tooling to support quantum-aware C++ development.
 
 ## Q++ Highlights
 
 - **`qstruct` and `qclass`** &mdash; Data structures for quantum state
   storage and manipulation.  See
-  [`include/qpp/qstruct.hpp`](include/qpp/qstruct.hpp) for
+  [`include/qpp/qstruct.hpp`](https://github.com/<owner>/qpp-gcc/blob/main/include/qpp/qstruct.hpp) for
   reference implementations.
 - **Probabilistic `bool`** &mdash; Boolean values that represent
   quantum superposition probabilities. The `qpp/pbool.h` header
@@ -136,7 +136,7 @@ Run `which qpp` to confirm the command is no longer available.
 
 The Q++ fork retains GCC's traditional `configure`/`make` build
 system. The process below mirrors the steps outlined in
-[CONTRIBUTING](.github/CONTRIBUTING.md).
+[CONTRIBUTING](https://github.com/<owner>/qpp-gcc/blob/main/.github/CONTRIBUTING.md).
 
 ```sh
 # Download prerequisite libraries (GMP, MPFR, MPC, etc.)
